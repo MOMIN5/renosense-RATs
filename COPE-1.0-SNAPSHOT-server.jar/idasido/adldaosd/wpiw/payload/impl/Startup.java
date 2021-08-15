@@ -1,0 +1,9 @@
+package idasido.adldaosd.wpiw.payload.impl;
+
+public class Startup {}
+
+
+/* Location:              C:\Users\aesthetical\Downloads\investagate\COPE-1.0-SNAPSHOT-server.jar!\idasido\adldaosd\wpiw\payload\impl\Startup.class
+ * Java compiler version: 8 (52.0)
+ * JD-Core Version:       1.1.3
+ */
